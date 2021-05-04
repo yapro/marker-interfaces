@@ -1,0 +1,21 @@
+{
+  "name": "yapro/marker-interfaces",
+  "type": "library",
+  "description": "Very useful design pattern",
+  "keywords":    ["php", "library", "design pattern"],
+  "license": "proprietary",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "Lebedenko Nikolay",
+      "email": "totx@ya.ru",
+      "role": "Developer",
+      "homepage": "http://yapro.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "YaPro\\MarkerInterfaces\\": "src/"
+    }
+  }
+}
