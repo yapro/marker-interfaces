@@ -5,6 +5,8 @@ namespace YaPro\MarkerInterfaces\Creational;
 /**
  * Класс имплементирующий данный интерфейс, должен содержать только один публичный метод format(), но может иметь
  * любое количество приватных методов.
+ * 
+ * Псевдонимы: Converter, Translator
  */
 interface FormatterInterface
 {
