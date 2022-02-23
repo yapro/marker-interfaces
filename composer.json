@@ -3,7 +3,6 @@
   "type": "library",
   "description": "Very useful design pattern",
   "keywords":    ["php", "library", "design pattern"],
-  "license": "proprietary",
   "version": "1.0",
   "authors": [
     {
