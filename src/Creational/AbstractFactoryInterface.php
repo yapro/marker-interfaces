@@ -7,7 +7,7 @@ namespace YaPro\MarkerInterfaces\Creational;
  *
  * @see http://designpatternsphp.readthedocs.io/ru/latest/Creational/AbstractFactory/README.html
  */
-interface AbstractFactory
+interface AbstractFactoryInterface
 {
     /*
      * Ни один метод специально не объявлен в интерфейсе, т.к. вариантов передачи параметров, а так же результирующих
