@@ -4,9 +4,8 @@ namespace YaPro\MarkerInterfaces\Structural;
 
 /**
  * Dsp - data source provider
- * @link http://servicedesignpatterns.com/WebServiceImplementationStyles/DatasourceAdapter
+ * @link https://yapro.ru/article/16338
  */
 interface DataSourceProviderInterface
 {
-
 }
