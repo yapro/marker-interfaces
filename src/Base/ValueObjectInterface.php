@@ -10,6 +10,6 @@ namespace YaPro\MarkerInterfaces\Base;
  * https://martinfowler.com/eaaCatalog/valueObject.html.
  * https://docs.microsoft.com/ru-ru/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/implement-value-objects.
  */
-interface ValueObjectInterface extends EntityAttributeValueInterface
+interface ValueObjectInterface
 {
 }
