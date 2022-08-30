@@ -3,7 +3,6 @@
   "type": "library",
   "description": "Very useful design pattern",
   "keywords":    ["php", "library", "design pattern"],
-  "version": "1.0",
   "authors": [
     {
       "name": "Lebedenko Nikolay",
