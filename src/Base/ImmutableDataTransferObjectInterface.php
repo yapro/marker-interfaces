@@ -3,7 +3,8 @@
 namespace YaPro\MarkerInterfaces\Base;
 
 /**
- * Data Transfer Object - это DataTransferObjectInterface, состояние которого приобретается в момент создания и более
- * не меняется.
+ * Data Transfer Object - это неизменяемый DTO.
  */
-interface ImmutableDataTransferObjectInterface extends ImmutableInterface, DataTransferObjectInterface {}
+interface ImmutableDataTransferObjectInterface extends ImmutableInterface, DataTransferObjectInterface
+{
+}

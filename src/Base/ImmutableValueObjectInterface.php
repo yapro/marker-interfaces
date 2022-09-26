@@ -3,8 +3,8 @@
 namespace YaPro\MarkerInterfaces\Base;
 
 /**
- * Immutable Value Object - это ValueObject, состояние которого приобретается в момент создания и более не меняется.
+ * Immutable Value Object - это неизменяемый ValueObject.
  */
-interface ImmutableValueObjectInterface extends ValueObjectInterface
+interface ImmutableValueObjectInterface extends ValueObjectInterface, ImmutableInterface
 {
 }
